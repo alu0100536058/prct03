@@ -1,0 +1,10 @@
+Respuestas a las preguntas
+
+10.
+jothaj@hian:~/661773/prct03 (master) $ ls -la
+total 20
+drwxr-xr-x. 5 526ec6e14382ec84be0001f2 526ec6e14382ec84be0001f2 4096 Oct 31 14:21 ./
+drwxr-xr-x. 5 526ec6e14382ec84be0001f2 526ec6e14382ec84be0001f2 4096 Oct 31 14:18 ../
+drwxr-xr-x. 2 526ec6e14382ec84be0001f2 526ec6e14382ec84be0001f2 4096 Oct 31 14:19 docs/
+drwxr-xr-x. 7 526ec6e14382ec84be0001f2 526ec6e14382ec84be0001f2 4096 Oct 31 14:21 .git/
+drwxr-xr-x. 2 526ec6e14382ec84be0001f2 526ec6e14382ec84be0001f2 4096 Oct 31 14:21 src/
