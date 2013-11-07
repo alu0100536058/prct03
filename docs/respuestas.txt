@@ -72,8 +72,8 @@ origin  git@github.com:alu0100536058/prct03.git (fetch)
 origin  git@github.com:alu0100536058/prct03.git (push)
 
 22.
-Clonar es copiar todo el contenido del repositorio en la cuenta local para poder
-modificarlo sin afectar el contenido original.
+Es copiar todo el contenido del repositorio en la cuenta local para poder
+Estoy de acuerdo con lo que han escrito mis compañeros en esta rama. Aunque lo que he escrito yo tiene preferencia.
 
 27.
 Una rama es cada una de las copias locales que tiene cada usuario con sus 
