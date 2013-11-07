@@ -78,3 +78,26 @@ modificarlo sin afectar el contenido original.
 27.
 Una rama es cada una de las copias locales que tiene cada usuario con sus 
 propias modificaciones.
+
+28.
+jothaj@hian:~/661773/prct03 (master) $ git branch
+* master
+
+29.
+jothaj@hian:~/661773/prct03 (master) $ git branch -a
+* master
+  remotes/origin/master
+  
+30.
+jothaj@hian:~/661773/prct03 (master) $ git branch ramita
+
+31.
+jothaj@hian:~/661773/prct03 (master) $ git checkout ramita
+Switched to branch 'ramita'
+
+32.
+jothaj@hian:~/661773/prct03 (ramita) $ git branch
+  master
+* ramita
+
+
