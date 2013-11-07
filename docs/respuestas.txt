@@ -72,7 +72,7 @@ origin  git@github.com:alu0100536058/prct03.git (fetch)
 origin  git@github.com:alu0100536058/prct03.git (push)
 
 22.
-Es copiar todo el contenido del repositorio en la cuenta local para poder
+Una rama es copiar todo el contenido del repositorio en la cuenta local para poder
 modificarlo sin afectar el contenido original.
 
 27.
