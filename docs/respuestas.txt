@@ -100,4 +100,40 @@ jothaj@hian:~/661773/prct03 (ramita) $ git branch
   master
 * ramita
 
+34.
+jothaj@hian:~/661773/prct03 (ramita) $ git add .
+jothaj@hian:~/661773/prct03 (ramita) $ git commit -m "Respondiendo a: ¿que es clonar?"
+[ramita 312a409] Respondiendo a: ¿que es clonar?
+ 1 file changed, 23 insertions(+)
+ 
+35.
+jothaj@hian:~/661773/prct03 (ramita) $ git log
+commit 312a4090fb5fac3a3b204805f1a626ed0b9f4150
+Author: OpenShift guest <alu0100536058@ull.edu.es>
+Date:   Thu Nov 7 12:50:50 2013 -0500
 
+    Respondiendo a: ¿que es clonar?
+
+commit c1aadbd1fab050e87a34c9522970f21e70f99a0c
+Author: OpenShift guest <alu0100536058@ull.edu.es>
+Date:   Thu Nov 7 12:37:48 2013 -0500
+
+    .
+
+commit 316d09cbb4e904cd16a63e11c3637fb1fb84fa0d
+Author: OpenShift guest <alu0100536058@ull.edu.es>
+Date:   Thu Oct 31 14:24:35 2013 -0400
+
+    Creando el proyecto: identidades matemnáticas
+
+36.
+jothaj@hian:~/661773/prct03 (ramita) $ git push origin ramita
+Counting objects: 14, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (14/14), 2.05 KiB, done.
+Total 14 (delta 2), reused 0 (delta 0)
+To git@github.com:alu0100536058/prct03.git
+ * [new branch]      ramita -> ramita
+ 
+ 
