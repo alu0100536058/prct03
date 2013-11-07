@@ -136,4 +136,14 @@ Total 14 (delta 2), reused 0 (delta 0)
 To git@github.com:alu0100536058/prct03.git
  * [new branch]      ramita -> ramita
  
+38.
+jothaj@hian:~/661773/prct03 (master) $ git merge ramita
+Updating c1aadbd..bf63e70
+Fast-forward
+ docs/respuestas.txt | 59 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 59 insertions(+)
  
+39. 
+
+40.
+
