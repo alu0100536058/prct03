@@ -72,8 +72,9 @@ origin  git@github.com:alu0100536058/prct03.git (fetch)
 origin  git@github.com:alu0100536058/prct03.git (push)
 
 22.
-Una rama es copiar todo el contenido del repositorio en la cuenta local para poder
-modificarlo sin afectar el contenido original.
+Una rama sirve para crear dentro de la carpeta de trabajo de GIT una especie de subespacio local
+en el que poder desarrollar realizar el control de versiones de código adicional y realizar modificaciones 
+pruebas sin modificar el contenido de la rama principal.
 
 27.
 Una rama es cada una de las copias locales que tiene cada usuario con sus 
