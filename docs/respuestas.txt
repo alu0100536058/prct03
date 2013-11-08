@@ -79,3 +79,6 @@ pruebas sin modificar el contenido de la rama principal.
 27.
 Una rama es cada una de las copias locales que tiene cada usuario con sus 
 propias modificaciones.
+
+39.
+Siginifica que despues de haber hecho el proceso de mezclado ha "avanzado" el puntero que señala la "instantánea", actualizándola 
