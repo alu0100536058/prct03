@@ -72,7 +72,7 @@ origin  git@github.com:alu0100536058/prct03.git (fetch)
 origin  git@github.com:alu0100536058/prct03.git (push)
 
 22.
-Una rama es copiar todo el contenido del repositorio en la cuenta local para poder
+Es copiar todo el contenido del repositorio en la cuenta local para poder
 modificarlo sin afectar el contenido original.
 
 27.
@@ -144,6 +144,16 @@ Fast-forward
  1 file changed, 59 insertions(+)
  
 39. 
+Significa que la rama máster va al siguiente paso.
 
 40.
-
+jothaj@hian:~/661773/prct03 (master) $ git push origin master
+Counting objects: 14, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 870 bytes, done.
+Total 8 (delta 2), reused 0 (delta 0)
+To git@github.com:alu0100536058/prct03.git
+   3158111..bc5454e  master -> master
+   
+ 
