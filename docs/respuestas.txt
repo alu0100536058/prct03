@@ -73,11 +73,16 @@ origin  git@github.com:alu0100536058/prct03.git (push)
 
 22.
 Es copiar todo el contenido del repositorio en la cuenta local para poder
+<<<<<<< HEAD
 modificarlo sin afectar el contenido original.
+=======
+Estoy de acuerdo con lo que han escrito mis compañeros en esta rama. Aunque lo que he escrito yo tiene preferencia.
+>>>>>>> 759f4b81b2ac92c119946ca79758bb8a22578e24
 
 27.
-Una rama es cada una de las copias locales que tiene cada usuario con sus 
-propias modificaciones.
+Una rama sirve para crear dentro de la carpeta de trabajo de GIT una especie de subespacio local
+en el que poder desarrollar realizar el control de versiones de código adicional y realizar modificaciones 
+pruebas sin modificar el contenido de la rama principal.
 
 28.
 jothaj@hian:~/661773/prct03 (master) $ git branch
@@ -144,6 +149,7 @@ Fast-forward
  1 file changed, 59 insertions(+)
  
 39. 
+<<<<<<< HEAD
 Significa que la rama máster va al siguiente paso.
 
 40.
@@ -157,3 +163,11 @@ To git@github.com:alu0100536058/prct03.git
    3158111..bc5454e  master -> master
    
  
+=======
+Siginifica que despues de haber hecho el proceso de mezclado ha "avanzado" el puntero que señala la "instantánea", actualizándola 
+
+
+40.
+
+
+>>>>>>> 759f4b81b2ac92c119946ca79758bb8a22578e24
