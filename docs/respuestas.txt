@@ -123,7 +123,7 @@ commit c1aadbd1fab050e87a34c9522970f21e70f99a0c
 Author: OpenShift guest <alu0100536058@ull.edu.es>
 Date:   Thu Nov 7 12:37:48 2013 -0500
 
-    .
+.
 
 commit 316d09cbb4e904cd16a63e11c3637fb1fb84fa0d
 Author: OpenShift guest <alu0100536058@ull.edu.es>
@@ -149,8 +149,8 @@ Fast-forward
  1 file changed, 59 insertions(+)
  
 39. 
-<<<<<<< HEAD
-Significa que la rama máster va al siguiente paso.
+
+Significa que la rama máster va al siguiente paso;  despues de haber hecho el proceso de mezclado se ha "avanzado" el puntero que señala la "instantánea", actualizándola 
 
 40.
 jothaj@hian:~/661773/prct03 (master) $ git push origin master
@@ -161,13 +161,3 @@ Writing objects: 100% (8/8), 870 bytes, done.
 Total 8 (delta 2), reused 0 (delta 0)
 To git@github.com:alu0100536058/prct03.git
    3158111..bc5454e  master -> master
-   
- 
-=======
-Siginifica que despues de haber hecho el proceso de mezclado ha "avanzado" el puntero que señala la "instantánea", actualizándola 
-
-
-40.
-
-
->>>>>>> 759f4b81b2ac92c119946ca79758bb8a22578e24
