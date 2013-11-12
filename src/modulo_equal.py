@@ -32,3 +32,4 @@ if __name__ == '__main__':
     print " %s expr1    expr2         min_value  max_value numero_test fallos" % (sys.argv[0])
     print " %s (a*b)**3 (a**3)*(b**3) -100.0     100.0     500         %g" % (sys.argv[0], equal('(a*b)**3', '(a**3)*(b**3)', A, B, numero_test))
     print " %s (a/b)    1/(b/a)       -100.0     100.0     500         %g" % (sys.argv[0], equal('(a/b)', '1/(b/a)', A, B, numero_test))
+
