@@ -1,21 +1,31 @@
 #! /usr/bin/python
+
 import random, sys
 
-#constantes
-A = -100.0
-B = 100.0
-numero_test = 500
+import numpy as np
+
+exp = np.exp
+log = np.log
+sin = np.sin
+cos = np.cos
+tan = np.tan
+
+
+#constantes por defecto
+#A = -100.0
+#B = 100.0
+#numero_test = 500
 
 def equal(expr1, expr2, A, B, n):
   i = 0
   fallos = 0
-  while (i <= n): 
+  while (i < n): 
    a = random.uniform(A,B)
    b = random.uniform(A,B)
    if eval(expr1) != eval(expr2): 
      fallos = fallos + 1
    i = i + 1
-  return (fallos*100/n)
+  return (float(fallos)*100/n)
   
 if __name__ == '__main__':
   if (len(sys.argv) == 6 ):
