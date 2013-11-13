@@ -10,12 +10,6 @@ sin = np.sin
 cos = np.cos
 tan = np.tan
 
-
-#constantes por defecto
-#A = -100.0
-#B = 100.0
-#numero_test = 500
-
 def equal(expr1, expr2, A, B, n):
   i = 0
   fallos = 0
