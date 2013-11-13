@@ -3,6 +3,7 @@
 import random, sys
 
 import numpy as np
+from math import *
 
 exp = np.exp
 log = np.log
