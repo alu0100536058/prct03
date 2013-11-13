@@ -1,7 +1,7 @@
 #! /usr/bin/python
 
 import random, sys
-
+from math import *
 import numpy as np
 from math import *
 
@@ -10,12 +10,6 @@ log = np.log
 sin = np.sin
 cos = np.cos
 tan = np.tan
-
-
-#constantes por defecto
-#A = -100.0
-#B = 100.0
-#numero_test = 500
 
 def equal(expr1, expr2, A, B, n):
   i = 0
