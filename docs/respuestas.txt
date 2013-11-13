@@ -73,11 +73,7 @@ origin  git@github.com:alu0100536058/prct03.git (push)
 
 22.
 Es copiar todo el contenido del repositorio en la cuenta local para poder
-<<<<<<< HEAD
-modificarlo sin afectar el contenido original.
-=======
-Estoy de acuerdo con lo que han escrito mis compañeros en esta rama. Aunque lo que he escrito yo tiene preferencia.
->>>>>>> 759f4b81b2ac92c119946ca79758bb8a22578e24
+
 
 27.
 Una rama sirve para crear dentro de la carpeta de trabajo de GIT una especie de subespacio local
