@@ -19,12 +19,9 @@ expresiones = [ ('(a*b)**3','(a**3)*(b**3)') ,
 ('log(a*b)','log(a)+log(b)') , 
 ('a*b','exp(log(a)+log(b))') ,
 ('1/((1/a)+(1/b))' , '(a*b)/(a+b)'),
-<<<<<<< HEAD
 ('(a*(sin(b))**2)+((cos(b))**2)' , 'a') ,
-=======
 ('a*(((sin(b))**2)+((cos(b))**2))' , 'a') ,
->>>>>>> 95c5274071c9a2a3c113a8b397145fccfc8724cd
-('sinh(a+b)' , '(((exp(a)*exp(b))-(exp(-a)*exp(-b)))/2)') ,
+('(a+b)' , '(((exp(a)*exp(b))-(exp(-a)*exp(-b)))/2)') ,
 ('tan(a+b)' , '(sin(a+b))/(cos(a+b))') ,
 ('sin(a+b)' , 'sin(a)*cos(b)+sin(b)*cos(a)')
 ]
