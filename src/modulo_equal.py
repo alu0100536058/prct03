@@ -1,7 +1,7 @@
 #! /usr/bin/python
 
 import random, sys
-
+from math import *
 import numpy as np
 
 exp = np.exp
